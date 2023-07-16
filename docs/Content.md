@@ -44,7 +44,7 @@
     * Working with Docker on different platforms (Windows, macOS)
 11.	Docker Ecosystem
     * Docker ecosystem overview (tools, frameworks, platforms)
-    * Integration with other technologies (e.g., Kubernetes)
+    * Integration with Kubernetes
 12.	Conclusion
     * Summary of key concepts
     * Further learning resources

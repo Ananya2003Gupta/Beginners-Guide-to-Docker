@@ -31,13 +31,13 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: blue
       accent: sky
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: blue
       accent: white
   font:
     text: Roboto
@@ -119,4 +119,3 @@ nav:
       - 12.1 Summary of Key Concepts: Conclusion\SummaryOfKeyConcepts.md
       - 12.2 Further Learning Resources: Conclusion\FurtherLearningResources.md
       - 12.3 References: Conclusion/References.md
-      - 12.4 Image Credits: Conclusion/ImageCredits.md
