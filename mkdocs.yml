@@ -57,7 +57,7 @@ nav:
     - index.md 
     - Table of Contents: Content.md
     - Introduction:
-      - 1. Introduction: Introduction/index.md
+      - 1. Introduction to Docker: Introduction/index.md
       - 1.1  What is Docker: Introduction/WhatIsDocker.md
       - 1.2  Advantages of Using Docker: Introduction/AdvantagesOfUsingDocker.md
       - 1.3  Docker Architecture: Introduction/DockerArchitecture.md
