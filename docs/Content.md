@@ -30,7 +30,7 @@
     * Introduction to Docker Compose
     * Defining multi-container applications with YAML
     * Running and managing multi-container setups
-8.	Docker Swarm and Orchestration
+8.	Docker Swarm
     * Introduction to Docker Swarm
     * Setting up a Swarm cluster
     * Deploying and managing services in a Swarm

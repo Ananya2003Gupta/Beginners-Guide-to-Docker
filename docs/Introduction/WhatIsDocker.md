@@ -1,5 +1,5 @@
-<h1 style=font-size:45px align='center'> 1. Introduction </h1>
-<h1> 1.1 What is Docker? </h1>
+[//]: # (What is Docker?)
+
 Docker is an amazing tool that helps us package and run our applications in a consistent and reliable way, no matter where we want to run them. It's like a magic box that holds everything our application needs to work correctly, making it easy to ship and deploy.
 
 Imagine you're building a house. In traditional software development, it's like building a house directly on the land. You have to make sure all the materials, tools, and workers are there at the right time. If anything goes wrong, it could impact the entire construction process.
@@ -15,7 +15,3 @@ Docker also makes it incredibly easy to share and distribute your applications. 
 In summary, Docker is a tool that lets us package our applications and their dependencies into self-contained containers, making them portable, isolated, and easy to manage. It simplifies the deployment process and enables us to run our applications consistently across different environments.
 
 If you still feel that I am unable to convince you to use Docker, let me share some additional benefits of using Docker that will definitely persuade you. In the next section, I will outline the advantages of using Docker.
-
-
-
-

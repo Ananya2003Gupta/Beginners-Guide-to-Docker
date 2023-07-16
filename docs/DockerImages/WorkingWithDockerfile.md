@@ -5,15 +5,14 @@ Dockerfiles are the building blocks for creating Docker images. They provide a w
 Understanding how to work with Dockerfiles is essential for customizing and managing your Docker images effectively. Let's explore the process of working with Dockerfiles.
 
 
-### Dockerfile Instructions:
+## Dockerfile Instructions:
 Dockerfiles use a set of instructions to define the build process. Each instruction represents a specific action that Docker performs during the image creation process.
-
 Some commonly used instructions in a Dockerfile include `FROM`, `RUN`, `COPY`, `WORKDIR`, `ENV`, `EXPOSE`, `CMD`, and `ENTRYPOINT`.
 
 The `FROM` instruction specifies the base image to use as the starting point for your custom image. The `RUN` instruction executes commands inside the image. The `COPY` instruction copies files from the host machine into the image. The `ENV` instruction sets environment variables, and so on.
 
 
-### Writing a Dockerfile:
+## Writing a Dockerfile:
 - To create a Dockerfile, open a text editor and create a new file named "Dockerfile" (without any file extension).
 - Start by specifying the base image using the FROM instruction. For example, to use the latest version of Ubuntu as the base image, you can write:
 ```
@@ -23,7 +22,7 @@ FROM ubuntu:latest
 - Organize the instructions in a logical order, as each instruction builds upon the previous ones.
 
 
-### Building an Image from a Dockerfile:
+## Building an Image from a Dockerfile:
 - To build an image from a Dockerfile, open a terminal or command prompt, navigate to the directory where your Dockerfile is located, and run the following command:
 ```
 docker build -t your-image-name:tag . 
@@ -33,7 +32,7 @@ docker build -t your-image-name:tag .
 - Docker will read the Dockerfile, execute the instructions, and build the image according to the specified configuration.
 
 
-### Building Efficient Dockerfiles:
+## Building Efficient Dockerfiles:
 - When writing Dockerfiles, it's essential to keep them efficient and optimized for performance.
 - Use the `COPY` instruction to copy only necessary files into the image, minimizing the image size.
 - Leverage layer caching by ordering the instructions from least likely to change to most likely to change. This way, Docker can reuse previously built layers during subsequent builds, speeding up the process.
@@ -41,9 +40,7 @@ docker build -t your-image-name:tag .
 
 <br>
 In the upcoming chapter, we will dive into the realm of Docker containers, the heart of Docker's lightweight virtualization technology. 
-
 Containers are isolated environments that encapsulate your applications and their dependencies, ensuring consistent behavior across different systems. 
 
-We will explore the benefits of using Docker containers for application development, testing, and deployment, as well as their role in achieving scalability and resource efficiency. 
-
+We will explore the benefits of using Docker containers for application development, testing, and deployment, as well as their role in achieving scalability and resource efficiency.
 By understanding Docker containers, you will gain the ability to create, manage, and deploy your applications in a flexible and portable manner.
