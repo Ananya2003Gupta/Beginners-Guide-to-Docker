@@ -1,5 +1,4 @@
-<h1 style=font-size:45px align='center'>2. Getting Started with Docker</h1>
-<h1>2.1 Installing Docker</h1>
+[//]: # (2.1 Installing Docker)
 
 Docker is available for different operating systems, including Windows, macOS, and Linux. Here's a step-by-step guide on how to install Docker on each platform:
 
@@ -15,7 +14,7 @@ However, it's important to note that not all systems support both options. If yo
 - Go to the Docker website and download the [Docker Desktop installer for macOS](https://docs.docker.com/desktop/install/mac-install/).
 - Open the downloaded DMG file and drag the Docker icon to the Applications folder.
 - Launch Docker from the Applications folder. You might be asked to provide your system password to complete the installation.
-- Docker Desktop should now be installed and running. You'll see a whale icon in your menu bar.
+- Docker Desktop should now be installed and running. You'll see Docker icon in your menu bar.
 
 ## Installing Docker on Linux:
 Installing [Docker on Linux](https://docs.docker.com/desktop/install/linux-install/) varies depending on the specific distribution you're using. Here's a general outline:

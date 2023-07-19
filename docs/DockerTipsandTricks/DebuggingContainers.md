@@ -29,6 +29,5 @@ In some cases, you may need to debug a container remotely. This can be achieved 
 ### 7.	Health Checks: 
 Implementing health checks in your containerized applications can help you identify and diagnose issues. Health checks allow you to define custom logic to determine if the container is functioning correctly. Docker provides options to configure health checks and monitor the health status of your containers.
 
-
 <br>
 Remember, effective debugging involves a combination of understanding the application's behavior, inspecting logs, and utilizing appropriate debugging tools. Each application and scenario may require different debugging techniques, so it's important to familiarize yourself with the specific tools and practices relevant to your application stack.

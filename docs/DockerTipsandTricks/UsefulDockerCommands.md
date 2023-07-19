@@ -26,5 +26,5 @@ Docker provides a variety of commands that allow you to manage containers, image
 
 12.	**`docker build`** : Use this command to build a Docker image based on a Dockerfile. It reads the instructions in the Dockerfile and creates an image.
 
-<br>
+
 These are just a few examples of useful Docker commands. Docker provides many more commands and options to manage containers, images, networks, volumes, and other resources. Feel free to explore the Docker documentation for more details and to learn about additional commands.

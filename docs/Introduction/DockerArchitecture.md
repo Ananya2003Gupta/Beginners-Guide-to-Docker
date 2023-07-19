@@ -4,7 +4,7 @@
 As I mentioned earlier, to understand Docker, it's important to grasp its architecture. Docker consists of three main components: the Docker engine, images, and containers. Let's explore each of these components:
 
 ### 1.	Docker Engine: 
-At the heart of Docker is the Docker engine. It is responsible for building, running, and managing containers. The Docker engine includes two important parts: the Docker daemon and the Docker client.
+At the heart of Docker is the Docker engine. It is responsible for building, running, and managing containers. The Docker engine includes two important components: the Docker daemon and the Docker client.
 <ul>
 <li><b>Docker Daemon</b>: The Docker daemon is a background service that runs on the host machine. It handles the creation, management, and execution of Docker containers. The daemon listens for Docker-related commands and requests.</li>
 

@@ -43,5 +43,5 @@ Docker provides several security mechanisms to protect containers and the host s
 ## 11.	Docker and Kubernetes Integration: 
 Docker integrates seamlessly with Kubernetes, an open-source container orchestration platform. Docker can serve as the container runtime for Kubernetes, and Kubernetes can manage the deployment, scaling, and management of Docker containers within a cluster.
 
-<br>
+
 By understanding these key concepts, you'll have a solid foundation for working with Docker and leveraging its capabilities to deploy and manage containerized applications efficiently.

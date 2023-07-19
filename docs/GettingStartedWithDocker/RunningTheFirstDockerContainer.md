@@ -1,6 +1,8 @@
 [//]: # (Running the First Docker Container)
 
-Now that you have Docker installed, let's run your very first Docker container. Running a container is the fundamental concept in Docker, allowing you to isolate and run applications in a portable and consistent manner. Here's a step-by-step guide to help you get started:
+Now that you have Docker installed, let's run your very first Docker container. 
+<br>
+Running a container is the fundamental concept in Docker, allowing you to isolate and run applications in a portable and consistent manner. Here's a step-by-step guide to help you get started:
 
 ## 1. Pulling an Image:
 Before running a container, you need an image.
@@ -37,9 +39,3 @@ Now that the container is running, you may want to access the application or ser
 Congratulations! You've successfully run your first Docker container. 
 
 You can explore more images on Docker Hub, try running containers with different images, or even build your own images to containerize your applications.
-
-
-<br>
-In the next chapter, we will delve into the fascinating world of Docker images. Docker images are the key components that enable us to create and run Docker containers. We will explore why understanding Docker images is crucial for building and deploying applications with Docker. 
-
-By mastering Docker images, you will gain the ability to package your applications and their dependencies into portable, reproducible units that can be easily shared and deployed across different environments. Get ready to unlock the power of Docker images in our upcoming exploration.

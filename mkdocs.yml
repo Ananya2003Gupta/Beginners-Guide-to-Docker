@@ -52,6 +52,17 @@ plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
 
+
+#Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Ananya2003Gupta
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ananyagupta05/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/ananya_gupt_a
+
 nav:
   - Home:
     - index.md 
