@@ -4,8 +4,8 @@ site_author: Ananya Gupta
 site_description: A Beginner's Guide to Docker
 
 # Repository
-repo_name: Ananya2003Gupta/Beginner-s-Guide-to-Docker
-repo_url: https://github.com/Ananya2003Gupta/Beginner-s-Guide-to-Docker
+repo_name: Ananya2003Gupta/Beginners-Guide-to-Docker
+repo_url: https://github.com/Ananya2003Gupta/Beginners-Guide-to-Docker
 
 # Copyright
 copyright: Copyright &copy; 2023 Ananya Gupta
@@ -65,7 +65,7 @@ extra:
 
 nav:
   - Home:
-    - index.md 
+    - Overview: index.md 
     - Table of Contents: Content.md
     - Introduction:
       - 1. Introduction to Docker: Introduction/index.md
