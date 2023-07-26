@@ -1,4 +1,3 @@
-
 [//]: # (Advantages Of Using Docker)
 
 Docker offers several advantages, making it a popular choice among developers and organizations. Here are some of the key benefits:

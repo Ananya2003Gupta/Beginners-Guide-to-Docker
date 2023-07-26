@@ -1,5 +1,4 @@
-<h1 style=font-size:45px align='center'> 4. Docker Containers</h1>
-<h1>4.1 Understanding Docker Containers</h1>
+[//]: # (4.1 Understanding Docker Containers)
 
 ## What are Docker Containers?
 Docker containers are like individual compartments that hold your applications and everything they need to work correctly. They are super lightweight and don't take up much space, making them easy to move around. 

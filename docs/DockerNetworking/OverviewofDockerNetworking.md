@@ -1,5 +1,4 @@
-<h1 style=font-size:45px align='center'>6. Docker Networking</h1>
-<h1>6.1 Overview of Docker Networking</h1>
+[//]: # (Overview of Docker Networking)
 
 In Docker, networking is like a superpower that allows containers to talk and share information with each other. It's like giving them their own special way of communicating. Just like how we need to connect our devices to Wi-Fi or plug them into a network, containers also need a way to connect and interact.
 

@@ -1,4 +1,3 @@
-
 [//]: # (Running A Blogging Platform)
 
 Imagine you want to set up a blogging platform that consists of multiple components, including a web server, a database, and a caching system. Docker can help you achieve this by leveraging its architecture components:

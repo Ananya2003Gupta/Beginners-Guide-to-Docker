@@ -1,4 +1,3 @@
-
 [//]: # (Docker Architecture)
 
 As I mentioned earlier, to understand Docker, it's important to grasp its architecture. Docker consists of three main components: the Docker engine, images, and containers. Let's explore each of these components:
